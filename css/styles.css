@@ -1,0 +1,41 @@
+body{
+	
+	background-image: url(../images/dark.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	width: 10%;
+	border-top-width: 5px;
+	border-color: white;
+}
+h1{
+	color: white;
+}
+h3{
+	color: white;	
+}
+table{
+	border-style: none;
+	border-spacing: 10px;
+	color:white;
+}
+p{
+	color:white;
+
+}
+ol{
+color:white;
+}
+ul
+{
+color:white;
+}
+a{
+	color: yellow;
+}
+form{
+	color:white;
+}
